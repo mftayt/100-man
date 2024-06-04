@@ -10,7 +10,7 @@
       "volume": "18",
       "last_updated": "1699490340",
       "groups": {
-        "K Manga": "https://imgur.com/a/g6ErC54"
+        "K Manga": "/proxy/api/imgur/chapter/g6ErC54"
       }
     },
     "90": {
@@ -18,7 +18,7 @@
       "volume": "19",
       "last_updated": "1702045920",
       "groups": {
-        "K Manga": "https://imgur.com/a/oCnl9bG"
+        "K Manga": "/proxy/api/imgur/chapter/oCnl9bG"
       }
     },
     "91": {
@@ -26,7 +26,7 @@
       "volume": "19",
       "last_updated": "1704733260",
       "groups": {
-        "K Manga": "https://imgur.com/a/U9RLJKv"
+        "K Manga": "/proxy/api/imgur/chapter/U9RLJKv"
       }
     },
     "92": {
@@ -34,7 +34,7 @@
       "volume": "19",
       "last_updated": "1707421380",
       "groups": {
-        "K Manga": "https://imgur.com/a/eAIbRF5"
+        "K Manga": "/proxy/api/imgur/chapter/eAIbRF5"
       }
     },
     "93": {
@@ -42,7 +42,7 @@
       "volume": "19",
       "last_updated": "1709860140",
       "groups": {
-        "K Manga": "https://imgur.com/a/S6PsQaq"
+        "K Manga": "/proxy/api/imgur/chapter/S6PsQaq"
       }
     },
     "94": {
@@ -50,7 +50,7 @@
       "volume": "19",
       "last_updated": "1712601840",
       "groups": {
-        "K Manga": "https://imgur.com/a/TtOSmJB"
+        "K Manga": "/proxy/api/imgur/chapter/TtOSmJB"
       }
     },
     "95": {
@@ -58,7 +58,7 @@
       "volume": "20",
       "last_updated": "1715188860",
       "groups": {
-        "K Manga": "https://imgur.com/a/IiLECKi"
+        "K Manga": "/proxy/api/imgur/chapter/IiLECKi"
       }
     }
   }
