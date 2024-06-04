@@ -5,6 +5,302 @@
   "author": "Yamakawa Naoki",
   "cover": "https://mangadex.org/covers/0a817d8e-6458-4332-bdf1-63318e2dc740/4d3f7472-b4a3-468b-be8d-285f0e93c10e.jpg",
   "chapters": {
+    "45": {
+      "title": "Yotsuya Yusuke's Crime and Punishment",
+      "volume": "10",
+      "last_updated": "1602509301",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/de93024a-aca2-4846-9048-b4f388b9bbdd"
+      }
+    },
+    "46": {
+      "title": "Treaty and Unfinished Business",
+      "volume": "10",
+      "last_updated": "1602941371",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/d846532f-9d15-41b1-a9be-75da7e0a941b"
+      }
+    },
+    "47": {
+      "title": "Gathering and Beach",
+      "volume": "10",
+      "last_updated": "1603114214",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/920bc674-fd6c-4093-b57b-da1d5bd10dc7"
+      }
+    },
+    "48": {
+      "title": "a Tunnel-Visioned Apocalypse",
+      "volume": "10",
+      "last_updated": "1729603865",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/c5aac09b-4a88-4b3c-a5c3-6ac499e07aa4"
+      }
+    },
+    "49": {
+      "title": "Kingdom of Blacksmith",
+      "volume": "10",
+      "last_updated": "1603805579",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/bf6c0f6b-21b3-41e6-bf8b-fcf6df802cd1"
+      }
+    },
+    "50": {
+      "title": "The Elephant that Contents to be Chained",
+      "volume": "11",
+      "last_updated": "1604151233",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/f392640f-7511-493f-bee2-db366789b727"
+      }
+    },
+    "51": {
+      "title": "Gold and Abberation",
+      "volume": "11",
+      "last_updated": "1604583302",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/722c3bfb-6e37-4975-b117-9c85662b648d"
+      }
+    },
+    "52": {
+      "title": "Catheo Monk Jangni",
+      "volume": "11",
+      "last_updated": "1605793056",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/581b9f6e-a78c-4733-823e-9c880eeb327d"
+      }
+    },
+    "53": {
+      "title": "A Peaceful Reminisce",
+      "volume": "11",
+      "last_updated": "1606397907",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/ed01fe81-b8c0-48f9-bf69-e1d7d71da0ad"
+      }
+    },
+    "54": {
+      "title": "Initial Resolution",
+      "volume": "11",
+      "last_updated": "1607866755",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/95a7e77b-4893-40a1-a7e2-eadfb6555c9e"
+      }
+    },
+    "55": {
+      "title": "Founder of Catheo and Enemy of Humanity",
+      "volume": "12",
+      "last_updated": "1610631600",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/633022f5-ae5a-4249-b690-4fc2b879edb7"
+      }
+    },
+    "56": {
+      "title": "Husk of a Sorcerer",
+      "volume": "12",
+      "last_updated": "1613396457",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/582cbb69-29f9-4bbf-8b4a-77c5f102222b"
+      }
+    },
+    "57": {
+      "title": "Delegate Program Execution",
+      "volume": "12",
+      "last_updated": "1615902101",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/fe131cb8-0f50-471a-b000-aa7fc2592699"
+      }
+    },
+    "58": {
+      "title": "My Magic",
+      "volume": "12",
+      "last_updated": "1625665339",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/8cd30697-35fd-4f42-8fb4-cbd4308a7dc1"
+      }
+    },
+    "59": {
+      "title": "The Proletariat and the Aristocrat",
+      "volume": "12",
+      "last_updated": "1625665392",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/7b778c15-054c-4fb8-a013-4bff9240f7d1"
+      }
+    },
+    "60": {
+      "title": "Battle Start and Fragments",
+      "volume": "13",
+      "last_updated": "1625665456",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/834b03b0-be90-4f02-827f-70b934c9a433"
+      }
+    },
+    "61": {
+      "title": "2 Secret Magic",
+      "volume": "13",
+      "last_updated": "1626443088",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/b400f716-ab1f-4fa6-b0fb-ea73f4e13a30"
+      }
+    },
+    "62": {
+      "title": "It can't Continue Like This!",
+      "volume": "13",
+      "last_updated": "1629380722",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/3a3ebe58-0d36-4f62-8308-2759ef6418a0"
+      }
+    },
+    "63": {
+      "title": "Kingdom, Citizen, and Economy",
+      "volume": "13",
+      "last_updated": "1633009571",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/973e6614-93ec-4f2f-bad8-c99cd52371e8"
+      }
+    },
+    "64": {
+      "title": "Metallic Rain",
+      "volume": "13",
+      "last_updated": "1634910412",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/4b87fcf4-6738-4f15-a17e-65e476108424"
+      }
+    },
+    "65": {
+      "title": "To Each Their Way",
+      "volume": "14",
+      "last_updated": "1637416067",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/60fae065-31c8-4fbf-b7cc-dc174e19648a"
+      }
+    },
+    "66": {
+      "title": "Adulthood and Annoyance",
+      "volume": "14",
+      "last_updated": "1639835308",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/dc3c29c4-435b-4587-82d2-c5da7b1507ac"
+      }
+    },
+    "67": {
+      "title": "A Sound Older Than Words",
+      "volume": "14",
+      "last_updated": "1642772934",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/25f0ea48-1e29-4203-93b5-fb68674db6fa"
+      }
+    },
+    "68": {
+      "title": "Division and Water Monster",
+      "volume": "14",
+      "last_updated": "1645105785",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/4e367e9c-c883-4bd3-92ea-90e88436c424"
+      }
+    },
+    "69": {
+      "title": "Guardians of the Laws of God",
+      "volume": "14",
+      "last_updated": "1647957027",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/6b36f116-2f90-4d0e-bd41-3141679d6904"
+      }
+    },
+    "70": {
+      "title": "Birth of The Savior",
+      "volume": "15",
+      "last_updated": "1650721948",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/a63056ba-1622-40d2-966e-baa553a09a29"
+      }
+    },
+    "71": {
+      "title": "Freedom and the Press",
+      "volume": "15",
+      "last_updated": "1653745981",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/74fa9f6d-3239-4776-87d5-e46743f8e910"
+      }
+    },
+    "72": {
+      "title": "Through the Rapids",
+      "volume": "15",
+      "last_updated": "1656510809",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/3158cfbd-9b82-4cb1-83f8-81463f42e0e5"
+      }
+    },
+    "73": {
+      "title": "Young and Energeti",
+      "volume": "15",
+      "last_updated": "1661262856",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/a2e0aba9-de44-45be-8bb8-7743e452593d"
+      }
+    },
+    "74": {
+      "title": "Foul and Foe?",
+      "volume": "15",
+      "last_updated": "1663250106",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/777c0876-875e-4fc4-8c22-bd878bebc83a"
+      }
+    },
+    "75": {
+      "title": "Achievement and Despair",
+      "volume": "16",
+      "last_updated": "1667483773",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/059995e8-7a1f-4076-8c46-83164e8361ac"
+      }
+    },
+    "76": {
+      "title": "Incomplete Dictatorship",
+      "volume": "16",
+      "last_updated": "1670594206",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/dc6c4239-36d2-4fe1-a6bb-51e6a26a22e8"
+      }
+    },
+    "77": {
+      "title": "Atoah of Maimoga",
+      "volume": "16",
+      "last_updated": "1672667842",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/2056de90-cf42-46d7-89ce-97ed85e37179"
+      }
+    },
+    "78": {
+      "title": "Fono of Solitola",
+      "volume": "16",
+      "last_updated": "1675087100",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/b2bd87f6-203f-4cbd-91ee-5aa71ad5f88f"
+      }
+    },
+    "79": {
+      "title": "Doubt and Brainwash",
+      "volume": "16",
+      "last_updated": "1677074327",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/a6e87c98-da2c-459d-bf40-d99ae12b80d9"
+      }
+    },
+    "80": {
+      "title": "Mass Production and Swamp",
+      "volume": "17",
+      "last_updated": "1679839172",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/1b9fc088-6504-43ab-8480-4dbad4e65358"
+      }
+    },
+    "81": {
+      "title": "Signal for Start",
+      "volume": "17",
+      "last_updated": "1683295210",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/46fceea9-4e14-4bbb-aeef-4b615725e0ae"
+      }
+    },
     "89": {
       "title": "89",
       "volume": "18",
@@ -59,6 +355,14 @@
       "last_updated": "1715188860",
       "groups": {
         "K Manga": "/proxy/api/imgur/chapter/IiLECKi"
+      }
+    },
+    "51.5": {
+      "title": "Round 7 Fashion Show",
+      "volume": "11",
+      "last_updated": "1604669800",
+      "groups": {
+        "Home Hero Scans": "/proxy/api/mangadex/chapter/44d0bd62-7e23-4eba-9056-22ada3c9a2dd"
       }
     }
   }
