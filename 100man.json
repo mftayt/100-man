@@ -4,5 +4,76 @@
   "artist": "Akinari Nao",
   "author": "Yamakawa Naoki",
   "cover": "https://mangadex.org/covers/0a817d8e-6458-4332-bdf1-63318e2dc740/4d3f7472-b4a3-468b-be8d-285f0e93c10e.jpg",
-  "chapters": {}
+  "chapters": {
+    "89": {
+      "title": "89",
+      "volume": "",
+      "last_updated": "1717506193",
+      "groups": {
+        "": [
+          "https://imgur.com/a/g6ErC54"
+        ]
+      }
+    },
+    "90": {
+      "title": "90",
+      "volume": "",
+      "last_updated": "1717506267",
+      "groups": {
+        "": [
+          "https://imgur.com/a/oCnl9bG"
+        ]
+      }
+    },
+    "91": {
+      "title": "91",
+      "volume": "",
+      "last_updated": "1717506284",
+      "groups": {
+        "": [
+          "https://imgur.com/a/U9RLJKv"
+        ]
+      }
+    },
+    "92": {
+      "title": "92",
+      "volume": "",
+      "last_updated": "1717506294",
+      "groups": {
+        "": [
+          "https://imgur.com/a/eAIbRF5"
+        ]
+      }
+    },
+    "93": {
+      "title": "93",
+      "volume": "",
+      "last_updated": "1717506325",
+      "groups": {
+        "": [
+          "https://imgur.com/a/S6PsQaq"
+        ]
+      }
+    },
+    "94": {
+      "title": "94",
+      "volume": "",
+      "last_updated": "1717506348",
+      "groups": {
+        "": [
+          "https://imgur.com/a/TtOSmJB"
+        ]
+      }
+    },
+    "95": {
+      "title": "95",
+      "volume": "",
+      "last_updated": "1717506364",
+      "groups": {
+        "": [
+          "https://imgur.com/a/IiLECKi"
+        ]
+      }
+    }
+  }
 }
