@@ -796,6 +796,14 @@
       "groups": {
         "K Manga": "/proxy/api/imgur/chapter/aAjIJzG"
       }
+    },
+    "100": {
+      "title": "We're Living on a Million Loves",
+      "volume": "21",
+      "last_updated": "1728440700",
+      "groups": {
+        "K Manga": "/proxy/api/imgur/chapter/tl1IjLL"
+      }
     }
   }
 }
