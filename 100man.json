@@ -812,6 +812,14 @@
       "groups": {
         "K Manga": "/proxy/api/imgur/chapter/rWucyjn"
       }
+    },
+    "102": {
+      "title": "Gathering of Sorcerers",
+      "volume": "21",
+      "last_updated": "1733701980",
+      "groups": {
+        "K Manga": "/proxy/api/imgur/chapter/bSYqeNi"
+      }
     }
   }
 }
