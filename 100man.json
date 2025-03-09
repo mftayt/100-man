@@ -836,6 +836,14 @@
       "groups": {
         "K Manga": "/proxy/api/imgur/chapter/QEVgzjS"
       }
+    },
+    "105": {
+      "title": "Final Moments",
+      "volume": "22",
+      "last_updated": "1741326720",
+      "groups": {
+        "K Manga": "/proxy/api/imgur/chapter/6QSKuQt"
+      }
     }
   }
 }
