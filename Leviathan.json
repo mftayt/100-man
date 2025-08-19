@@ -1,0 +1,97 @@
+{
+  "title": "Leviathan",
+  "description": "Leviathan is a part webcomic, part web novel lead up to Limbus Company published and released by Project Moon on the company's official Postype. Leviathan began as a webcomic illustrated by web artist Monggeu on December 24th, 2021 and was later turned into a web novel for the final half of its serialization, concluding on October 28th, 2022.\n\nThe story centers around Vergilius before his recruitment into Limbus Company, following him and the young Fixer Garnet in their search for the missing Lapis. ",
+  "artist": "Monggeu",
+  "author": "Project Moon",
+  "cover": "https://limbuscompany.wiki.gg/images/2/2d/LeviathanCover.png?cc8dc9",
+  "chapters": {
+    "1": {
+      "title": "Book1 - Christmas Eve",
+      "volume": "1",
+      "last_updated": "1755605664",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/Ds7IHXV"
+      }
+    },
+    "2": {
+      "title": "Book2 - Garnet and Lapis",
+      "volume": "1",
+      "last_updated": "1755605694",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/cZCywoL"
+      }
+    },
+    "3": {
+      "title": "Book3 - The Gallery",
+      "volume": "1",
+      "last_updated": "1755605714",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/coud1Qi"
+      }
+    },
+    "4": {
+      "title": "Book4 - A Docent",
+      "volume": "1",
+      "last_updated": "1755605758",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/IP7aflx"
+      }
+    },
+    "5": {
+      "title": "Book5 - Video",
+      "volume": "1",
+      "last_updated": "1755605770",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/4YbfPIB"
+      }
+    },
+    "6": {
+      "title": "Book6 - Flow",
+      "volume": "1",
+      "last_updated": "1755605784",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/X0ZwOGQ"
+      }
+    },
+    "7": {
+      "title": "Book7 - Ingress",
+      "volume": "1",
+      "last_updated": "1755605813",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/NpDPBuS"
+      }
+    },
+    "8": {
+      "title": "Book8 - Ecstacies",
+      "volume": "1",
+      "last_updated": "1755605827",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/mJaQUok"
+      }
+    },
+    "9": {
+      "title": "Book9 - Eye-opening",
+      "volume": "1",
+      "last_updated": "1755605843",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/4qwpsbo"
+      }
+    },
+    "10": {
+      "title": "Book10 - Resection",
+      "volume": "1",
+      "last_updated": "1755605856",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/xsIBqtH"
+      }
+    },
+    "11": {
+      "title": "Book11 - The Auction",
+      "volume": "1",
+      "last_updated": "1755605871",
+      "groups": {
+        "Project Moon": "/proxy/api/imgur/chapter/FtZOwDZ"
+      }
+    }
+  }
+}
